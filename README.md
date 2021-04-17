@@ -1,4 +1,4 @@
-## H2 [Escrow London](https://escrowlondon.com) is a multinational software escrow company operating out of London, UK and Atlanta, USA. Escrow London provides software and SaaS escrow. 
+##[Escrow London](https://escrowlondon.com) is a multinational software escrow company operating out of London, UK and Atlanta, USA. Escrow London provides software and SaaS escrow. 
 
 [Download](https://www.escrowlondon.com/download-software-escrow-agreement-templates/) free SaaS escrow and software escrow agreements from the Escrow London library. 
 
